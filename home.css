@@ -1,6 +1,14 @@
 
-#Home {
+#Head {
   background-color: #F4ACB7 !important;
+}
+
+#Botox {
+  background-color: #9D8189;
+}
+
+#Schedule {
+  background-color: #9D8189;
 }
 
 #Follow {
@@ -22,12 +30,6 @@ body {
 .white {
   color: #9D8189;
 }
-
-
-
-
-
-
 
 
 
